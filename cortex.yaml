@@ -1,0 +1,16 @@
+openapi: 3.0.0
+info:
+  title: Messaging Gateway
+  description:  API for routing messages through multiple channels.
+  x-cortex-tag: messaging-gateway
+  x-cortex-type: service
+  x-cortex-groups:
+    - communications
+  x-cortex-owners:
+    - type: group
+      name: cortex-workshops/comms-team
+      provider: GITHUB
+  x-cortex-git:
+    github:
+      repository: cortex-workshops/messaging-gateway
+      alias: cortex
