@@ -14,3 +14,7 @@ info:
     github:
       repository: cortex-workshops/messaging-gateway
       alias: cortex
+  x-cortex-issues:
+    jira:
+      labels:
+      - name: comms
