@@ -18,3 +18,7 @@ info:
     jira:
       labels:
       - name: comms
+  x-cortex-oncall:
+    pagerduty:
+      id: PBTH5U5
+      type: SERVICE
